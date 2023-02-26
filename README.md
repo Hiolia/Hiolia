@@ -1,6 +1,6 @@
 ### Yo!
 
-<h3 align="center">A french IT student</h3>
+<h3>A french IT student</h3>
 
 - 📫 Contact me at **hiolia7@proton.me**
 
